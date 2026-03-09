@@ -1,4 +1,4 @@
-package com.wfphantom.stfudisconnect.mixin;
+package com.wfphantom.mixin;
 
 import net.minecraft.network.Connection;
 import net.minecraft.network.ConnectionProtocol;

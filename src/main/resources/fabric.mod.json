@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "stfudisconnect",
+	"version": "${version}",
+	"name": "STFU Disconnect",
+	"description": "this makes disconnect be quiet :)",
+	"authors": ["WFPhantom"],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/stfudisconnect/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.wfphantom.STFUDisconnect"]
+	},
+	"mixins": ["stfudisconnect.mixins.json"],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
