@@ -1,4 +1,4 @@
-# Neo Bee Fix | [![][cf-shield]][cf-link] [![][mr-shield]][mr-link]
+# STFU Disconnect | [![][cf-shield]][cf-link] [![][mr-shield]][mr-link]
 
 ### This is a port of paper's [MC-271325](https://mojira.dev/MC-271325) patch to fabric and neo.
 
