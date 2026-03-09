@@ -11,15 +11,14 @@
 	},
 	"license": "MIT",
 	"icon": "assets/stfudisconnect/icon.png",
-	"environment": "*",
+	"environment": "server",
 	"entrypoints": {
 		"main": ["com.wfphantom.STFUDisconnect"]
 	},
 	"mixins": ["stfudisconnect.mixins.json"],
 	"depends": {
 		"fabricloader": ">=0.18.4",
-		"minecraft": "~1.21.1",
-		"java": ">=21",
-		"fabric-api": "*"
+		"minecraft": "~1.21",
+		"java": ">=21"
 	}
 }
